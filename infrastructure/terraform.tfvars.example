@@ -1,0 +1,7 @@
+compartment_ocid   = ""
+tenancy_ocid       = ""
+user_ocid          = ""
+fingerprint        = ""
+private_key_path   = ""
+config_profile     = ""
+github_runner_repo = ""
